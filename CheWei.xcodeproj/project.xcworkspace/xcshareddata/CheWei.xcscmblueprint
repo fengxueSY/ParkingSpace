@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2d342cdb-c745-b046-acc9-255a70f048c5++7990",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2d342cdb-c745-b046-acc9-255a70f048c5++7990" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2d342cdb-c745-b046-acc9-255a70f048c5++7990" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F048D211-9093-49EA-9641-6587685D0987",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2d342cdb-c745-b046-acc9-255a70f048c5++7990" : "chewei3.28\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CheWei",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "chewei1.0.0\/CheWei.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.0.10\/svn\/chewei",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2d342cdb-c745-b046-acc9-255a70f048c5++7990"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+code = 0;
+data =     {
+orderList =         (
+{
+adminId = 0;
+checkinTime = "<null>";
+checkoutTime = "<null>";
+contactName = "\U6211";
+contactPhone = 1588775663;
+lesseeAcceptedTime = "<null>";
+lesseeId = "<null>";
+lessorId = 216;
+orderId = 24;
+parkEnd = 1461998460000;
+parkStart = 1461652860000;
+parkingAddr = "<null>";
+price = 599;
+priceType = 1;
+sn = "<null>";
+spaceType = 1;
+specificLoc = "\U5728\U4e8e\U5b83\U7684";
+status = 0;
+totalPrice = "-0";
+},
+{
+adminId = 0;
+checkinTime = "<null>";
+checkoutTime = "<null>";
+contactName = "\U4e00\U5207";
+contactPhone = 18256398459;
+lesseeAcceptedTime = "<null>";
+lesseeId = "<null>";
+lessorId = 216;
+orderId = 23;
+parkEnd = 1461825240000;
+parkStart = 1461652440000;
+parkingAddr = "<null>";
+price = 1;
+priceType = 1;
+sn = "<null>";
+spaceType = 1;
+specificLoc = "\U4f60\U4e5f\U6765";
+status = 0;
+totalPrice = "-0";
+}
+);
+page = 1;
+uid = 216;
+};
+message = "\U8bf7\U6c42\U6210\U529f";
+}

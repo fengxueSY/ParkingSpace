@@ -1,0 +1,27 @@
+{
+code = 0;
+data =     (
+{
+adminId = 0;
+checkinTime = "<null>";
+checkoutTime = "<null>";
+contactName = "\U4e00\U4e2a\U4eba";
+contactPhone = 1555966985;
+lesseeAcceptedTime = "<null>";
+lesseeId = "<null>";
+lessorId = 216;
+orderId = 58;
+parkEnd = 1463815200000;
+parkStart = 1463556000000;
+parkingAddr = "\U534e\U6807\U5e7f\U573a";
+price = 5;
+priceType = 0;
+sn = "<null>";
+spaceType = 1;
+specificLoc = "\U5728\U8fd9\U4e00\U523b";
+status = 0;
+totalPrice = "-0";
+}
+);
+message = "\U8bf7\U6c42\U6210\U529f";
+}
